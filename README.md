@@ -27,7 +27,7 @@ The document goes on to explain that each button to be pressed can be found by s
 You are running out of time to complete your tests, so as the excellent software engineer that you are, you decide to figure out the code programmatically.
 
 You picture a keypad like this:
-
+| | | |
 |---|---|---|
 | 1 | 2 | 3 |
 | 4 | 5 | 6 |
