@@ -14,6 +14,8 @@ You can use any language you like to take part. However, make sure you are using
 
 When you have completed the challenge, head to [this repository](https://github.com/rej696/altran-rednoseday-2021-answers) to generate your answer.
 
+If you enjoyed the challenge, please consider donating to [Comic Relief](https://www.comicrelief.com/).
+
 👃👃👃👃👃🔴🔴🔴🔴🔴👃👃👃👃👃🔴🔴🔴🔴🔴
 
 ## Part One 🔓
