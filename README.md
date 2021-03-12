@@ -28,15 +28,20 @@ You are running out of time to complete your tests, so as the excellent software
 
 You picture a keypad like this:
 
-1 2 3\n
-4 5 6\n
-7 8 9\n
+1 2 3
+
+4 5 6
+
+7 8 9
 
 Suppose your instructions are:
 
 URR
+
 DDLUUD
+
 LLDLUU
+
 RDLUR
 
 - You start at "5" and move up (to "2"), right (to "3"), and right (you can't so stay on "3"), so the first button is 3.
