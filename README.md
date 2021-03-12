@@ -28,17 +28,17 @@ You are running out of time to complete your tests, so as the excellent software
 
 You picture a keypad like this:
 
----|---|---
- 1 | 2 | 3
- 4 | 5 | 6
- 7 | 8 | 9
+|---|---|---|
+| 1 | 2 | 3 |
+| 4 | 5 | 6 |
+| 7 | 8 | 9 |
 
 Suppose your instructions are:
 
-URR |
-DDLUUD |
-LLDLUU |
-RDLUR |
+| URR |
+| DDLUUD |
+| LLDLUU |
+| RDLUR |
 
 - You start at "5" and move up (to "2"), right (to "3"), and right (you can't so stay on "3"), so the first button is 3.
 - Starting from the previous button ("3"), you move down twice (to "9") and then left once (to "8"), followed by up twice (to "2") and down once, ending up at 5.
