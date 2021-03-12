@@ -1,6 +1,6 @@
 # Altran Comic Relief 2021 Challenge 🔴👃
 
-🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴👃👃👃👃👃👃👃👃👃👃👃
+🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴👃👃👃👃👃👃👃👃👃👃
 
 ## Instructions 🐍
 
@@ -14,9 +14,9 @@ You can use any language you like to take part. However, make sure you are using
 
 When you have completed the challenge, head to [this repository](https://github.com/rej696/altran-rednoseday-2021-answers) to generate your answer.
 
-👃👃👃👃👃👃👃👃👃👃👃🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
+👃👃👃👃👃🔴🔴🔴🔴🔴👃👃👃👃👃🔴🔴🔴🔴🔴
 
-## Challenge Description 🔓
+## Part One 🔓
 
 One weekend deep in lockdown, your project manager has asked you to go into the office as a matter of urgency! (Those ATC2 system tests aren't going to run themselves after all) However, after almost a year of not going into the office, you have completely lost your pass! With no Kevin to let you in, you scan around for alternate methods of entry.
 
@@ -49,3 +49,33 @@ RDLUR
 So for this example, the code for the door is 3512
 
 Your puzzle input is displayed on a screen by the keypad. What is the code?!
+
+👃👃👃👃👃👃👃👃👃👃🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
+
+## Part Two 🔐
+
+After several breakins, Claire has realised that the original code was two easy to crack! In order to increase its difficulty, she has added a new rule to the decryption process.
+
+Now, instead of ignoring a move that doesn't lead to a button, the opposite move is carried out. Therefore looking at our earlier example instructions:
+
+| | | |
+|---|---|---|
+| 1 | 2 | 3 |
+| 4 | 5 | 6 |
+| 7 | 8 | 9 |
+
+```
+URR
+DDLUUD
+LLDLUU
+RDLUR
+```
+
+- You start at "5" and move up (to "2"), right (to "3"), and right (you switch diretion to go to "2"), so the first button is 2.
+- Starting from the previous button ("2"), you move down twice (to "8") and then left once (to "7"), followed by up twice (to "1") and down once, ending up at 4.
+- Continuing from "4", you move right once (becuase the direction is flipped), then back left again, down once, right (the left is flipped) and up twice to end up at 2.
+- From 2, you move right, down, left, up, and right finally ending up at 3.
+
+So for this example, the code for the door is 2423.
+
+What is the code using your original input and this new high security rule?!
