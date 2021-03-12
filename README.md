@@ -1,4 +1,22 @@
-# altran-rednoseday-2021-challenge
+# Altran Comic Relief 2021 Challenge 🔴👃
+
+🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴👃👃👃👃👃👃👃👃👃👃👃
+
+## Instructions 🐍
+
+Clone this repository and run the generate_input.py script with your name as follows:
+
+```
+python generate_input.py --name <Your Name Here>
+```
+
+You can use any language you like to take part. However, make sure you are using python 3 to generate the input. If you don't have python 3, contact me and I can generate an input for you.
+
+When you have completed the challenge, head to [this repository](https://github.com/rej696/altran-rednoseday-2021-answers) to generate your answer.
+
+👃👃👃👃👃👃👃👃👃👃👃🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
+
+## Challenge Description 🔓
 
 One weekend deep in lockdown, your project manager has asked you to go into the office as a matter of urgency! (Those ATC2 system tests aren't going to run themselves after all) However, after almost a year of not going into the office, you have completely lost your pass! With no Kevin to let you in, you scan around for alternate methods of entry.
 
