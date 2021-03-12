@@ -28,9 +28,9 @@ You are running out of time to complete your tests, so as the excellent software
 
 You picture a keypad like this:
 
-1 2 3
-4 5 6
-7 8 9
+1 2 3\n
+4 5 6\n
+7 8 9\n
 
 Suppose your instructions are:
 
