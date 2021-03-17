@@ -27,6 +27,8 @@ def generate_data():
             data.append(random.choice(CHAR_LIST))
         data.append("\n")
     
+    data.pop()
+    
     return "".join(data)
 
 def create_file(path):
